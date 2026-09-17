@@ -1,0 +1,7 @@
+# Python deps. The Tesseract OCR *engine* must also be installed on the OS:
+#   Ubuntu/Debian:  sudo apt install tesseract-ocr
+#   macOS:          brew install tesseract
+#   Windows:        choco install tesseract   (or UB Mannheim installer)
+pillow>=10.0
+pytesseract>=0.3.13
+mss>=9.0

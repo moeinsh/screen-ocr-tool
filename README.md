@@ -76,3 +76,9 @@ cleanly on headless machines/CI.
 Talking points: *"Everything runs locally — no cloud, no API keys, your data
 never leaves the machine. The same pipeline also works as a one-shot CLI for
 batch jobs."*
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
